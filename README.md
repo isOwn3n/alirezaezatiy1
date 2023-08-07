@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **mixideo**
 
-- 🌱 I’m currently learning **Assembly, C, Django**
+- 🌱 I’m currently learning **CCNA, Django**
 
 - 📝 I regularly write articles on [https://independent.academia.edu/GreatOwnen](https://independent.academia.edu/GreatOwnen)
 
