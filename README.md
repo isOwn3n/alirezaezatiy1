@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Jewelry Website**
 
-- 🌱 I’m currently learning **Postgresql, Django**
+- 🌱 I’m currently learning **FastAPI, Django, Flutter**
 
 - 📝 I regularly write articles on [https://independent.academia.edu/GreatOwnen](https://independent.academia.edu/GreatOwnen)
 
