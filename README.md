@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Django, Vue, TypeScript**
 
-- 📝 I regularly write articles on [https://independent.academia.edu/GreatOwnen](https://independent.academia.edu/GreatOwnen)
+- 📝 I regularly write articles on [Academia](https://independent.academia.edu/OwnenFOwnen)
 
 - 📫 How to reach me **t.me/Own3n**
 
