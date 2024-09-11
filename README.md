@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📝 I regularly write articles on [Academia](https://independent.academia.edu/OwnenFOwnen)
-
 - 📫 How to reach me **t.me/Own3n**
 
 # 💻 Tech Stack:
